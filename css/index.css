@@ -1,0 +1,45 @@
+.profilePic {
+    height: 250px;
+    width: 250px;
+}
+.profileText {}
+.socialIcons {
+    margin-top: 20px;
+}
+.topicHead {
+    color: #555;
+    text-align: center;
+    margin: 30px 0px 70px 0px;
+}
+.profileList {
+    list-style: none;
+    padding-left: 20px;
+}
+.profileItem {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+.socialIcon {
+    padding: 0px 5px;
+}
+.itemL {
+    color: #777;
+    margin-right: 5px;
+}
+.topicHeadInner {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #3498db;
+}
+.aboutMe {}
+.dbtop {
+    border-bottom: 4px solid #2980b9;
+}
+.lbtop {
+    border-bottom: 4px solid #3498db;
+}
+.sitop {
+    border-bottom: 4px solid #7f8c8d;
+}
+.btop {
+    border-bottom: 4px solid #2c3e50;
+}
